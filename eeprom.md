@@ -59,8 +59,7 @@ to the EEPROM.  This example is based off the great work from
 Section 8.2 of the SRM illustrates the proper way to connect the
 EEPROM without write protection.
 
-![Alt text](/home/jbd/Documents/SparkFun/tutorial
-/cape_eeprom.png "Example Tree from https://en.wikipedia.org/wiki/File:Binary_tree.svg")
+![Alt text](cape_eeprom.png "Example Tree from https://en.wikipedia.org/wiki/File:Binary_tree.svg")
 
 Notice the DIP switches.  Remember that the BBB only supports four
 capes.  How is each cape manufacture to ensure that his or her cape
